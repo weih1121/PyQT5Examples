@@ -1,0 +1,13 @@
+/tmp/
+/tmp/*
+/tmp/Material
+/tmp/Material/*
+*.pyc
+.setting
+.setting/
+.setting/*
+/.setting/
+/.setting/*
+tmp
+.project
+.pydevproject

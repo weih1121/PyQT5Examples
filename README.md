@@ -44,9 +44,3 @@
  - [4.6 QFileSystemModel图标](界面美化/QFileSystemModel图标)
  - [4.7 QPushButton进度动画](界面美化/QPushButton进度动画)
  - [4.8 折叠动画效果](partner_625781186/2.折叠控件/)
-
-# QQ群
- - [PyQt & PySide](https://jq.qq.com/?_wv=1027&k=50LWvn9)
- - [PyQt学习互助](https://jq.qq.com/?_wv=1027&k=5QVVEdF)
-
-# [Donate](Donate/)
